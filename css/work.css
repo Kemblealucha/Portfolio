@@ -1,0 +1,25 @@
+.work h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.project {
+    background: #eef7ff;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.project a {
+    display: inline-block;
+    margin-top: 10px;
+    background: #0077cc;
+    color: white;
+    padding: 8px 15px;
+    text-decoration: none;
+}
+
+.project a:hover {
+    background: #005fa3;
+}
+
